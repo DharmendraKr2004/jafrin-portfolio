@@ -25,14 +25,14 @@ const Projects = () => {
       technologies: ["React", "Tailwind CSS", "JavaScript", "Framer Motion"],
       github: null,
       githubMessage: "Code will be uploaded soon",
-      demo: window.location.origin,
+      demo: "https://jafrin-portfolio-kpr4viiyt-dharmendra-kumars-projects-5dd79014.vercel.app",
       featured: true,
       status: "Live",
       year: "2024",
       stars: 25,
       forks: 10,
       views: 680,
-      highlights: ["Responsive Design", "Modern UI", "Smooth Animations", "Fast Loading"]
+      highlights: ["Responsive Design", "Modern UI", "+2 more"]
     },
     {
       id: 4,
