@@ -127,10 +127,10 @@ const Navbar = () => {
           {/* Resume Button */}
           <div className="hidden md:block">
             <motion.a
-              href="/Dharmendra_Kumar_Resume.pdf"
+              href="/resumefinal.pdf"
               target="_blank"
               rel="noopener noreferrer"
-              download="Dharmendra_Kumar_Resume.pdf"
+              download="Jafrin_Shajan_Resume.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-primary"
@@ -183,10 +183,10 @@ const Navbar = () => {
             </motion.button>
           ))}
           <motion.a
-            href="/Dharmendra_Kumar_Resume.pdf"
+            href="/resumefinal.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            download="Dharmendra_Kumar_Resume.pdf"
+            download="Jafrin_Shajan_Resume.pdf"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.3, delay: navItems.length * 0.1 }}
